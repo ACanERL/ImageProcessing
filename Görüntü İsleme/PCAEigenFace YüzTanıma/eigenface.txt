@@ -1,0 +1,7 @@
+aslinda eigenfaces demek pca sonucu elde edilen eigenvector lerdir.
+bu eigenfaces ‘ler veritabanindaki (yuz tanima icin) resimlerin en belirgin, ayirt edici ozelliklerini barindirir.
+bunlara bakilinca veritabaninindaki insanlara benzeyen ama tumuyle benzemeyen garip insan yuzleri gorulur. 
+ordaki her bir ozellik veritabanininda ki yuzlerin ayırt edici ozelligidir ya da her bir ayirt edici ozelligin yansimasidir.
+
+sonuc olarak training sonucu ortaya cikan ve tanima icin kullanilan veridir.
+veritabanina yeni kisinin yuz resmi eklediginde her seferinde eigenface 'lerdeki degisim gozlenebilir.
